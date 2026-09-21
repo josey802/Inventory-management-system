@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Bread",
+    "product_id": "3",
+    "price": 500.0,
+    "category": "Food",
+    "quantity": 5,
+    "minimum_stock": 2
+  }
+]
